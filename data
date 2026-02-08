@@ -1,1 +1,10 @@
+Heart-Disease-Analysis/
+│
+├── data/
+│   └── Heart_new2.csv
+│
+├── notebooks/
+│   └── heart_disease_analysis.ipynb
+│
+└── README.md
 
