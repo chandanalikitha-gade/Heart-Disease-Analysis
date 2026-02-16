@@ -7,6 +7,11 @@ Team Members :
 3. M.Madhura
 4. M.vijaya lakshmi
 we four have worked on the project with collabration of knownledge.As a team leader i have done my work and my team members are supported adn worked with me entitre the project.
+
+
+
+
+
 ❤️ Heart Disease Analysis using Data Analysis & Tableau
 
 This project focuses on analyzing heart disease data to identify key risk factors and patterns that contribute to cardiovascular diseases. Using real-world healthcare datasets, the project applies data analysis techniques to clean, process, and explore patient data such as age, gender, cholesterol levels, blood pressure, and lifestyle indicators.
